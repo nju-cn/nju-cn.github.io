@@ -31,13 +31,23 @@ and Distributed Systems (TPDS 2021, CCF A)  [[pdf](http://nju-cn.github.io/files
 
 ## <u>Conference Papers</u>
 
-[C.7] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
+[C.9] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
 Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual 
 International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
 
-[C.6] Zhi Ma, Sheng Zhang, **Ning Chen**, Zhuzhong Qian, Qing Gu, Yu Liang and Sanglu Lu. Dependent Task 
+[C.8] Yuting Yan, Sheng Zhang, Xiaokun Wang, **Ning Chen**, Yu Chen, Yu Liang, Mingjun Xiao, Sanglu Lu. 
+VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras IEEE Annual 
+International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
+
+
+[C.7] Zhi Ma, Sheng Zhang, **Ning Chen**, Zhuzhong Qian, Qing Gu, Yu Liang and Sanglu Lu. Dependent Task 
 offloading and Service Caching with State Management for Mobile Edge Computing. IEEE International 
 Conference on Communications (ICC 2023, CCF‑C) [[pdf](http://nju-cn.github.io/files/ICC_2023.pdf)]
+
+[C.6] Hesheng Sun, Xinyi Chen, Zhuzhong Qian, Zengji Li, **Ning Chen**, Tuo Cao, Suwei
+Xu, and Yitong Zhou. BIRP: Batch‑aware Inference Workload Redistribution and
+Parallel Scheme for Edge Collaboration. 12th International Congress Of Plant Pathology
+(ICPP, 2023, CCF-B) [[pdf](http://nju-cn.github.io/files/ICC_2023.pdf)]
 
 [C.5] **Ning Chen**, Shuai Zhang, Sheng Zhang, Yuting Yan, Yu Chen and Sanglu Lu. ResMap: Exploiting Sparse 
 Residual Feature Map for Accelerating Cross‑Edge Video Analytics. IEEE Annual International Conference 
