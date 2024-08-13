@@ -70,8 +70,8 @@ proportional computation offloading via deep reinforcement learning. 2019 IEEE 2
 Conference on Parallel and Distributed Systems (ICPADS) (ICPADS 2019, CCF C) [[pdf](http://nju-cn.github.io/files/ICPADS.pdf)]
 
 ## <u>Book Papers</u>
-[B.1] Shuai Zhang, **Yu Chen**, Sheng Zhang, Zhiqi Chen. Deepslicing: collaborative and adaptive cnn inference with low latency. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[pdf](http://chenyu97.github.io)]
+[B.1] Ning Chen, Sheng Zhang, Sanglu. Improving Live Augmented Reality With Neural Configuration Adaptation. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[link](https://www.igi-global.com/chapter/improving-live-augmented-reality-with-neural-configuration-adaptation/337692)]
 
 
 ## <u>Patent</u>
-[P.1] Pengju Jiao, Sheng Zhang, **Yu Chen** and Zhuzhong Qian. VNF migration method and device and storage medium (一种VNF迁移方法、装置及存储介质). Authorization Number: 112019368 [[link](https://patentscope2.wipo.int/search/zh/detail.jsf?docId=CN313574349&_cid=JP2-LDNY63-89791-1)]
+[P.1] 陈宁，张胜，钱柱中，陆桑璐. 一种针对边缘网络下突发请求的强化学习调度 方案及设备.
