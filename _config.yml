@@ -22,17 +22,17 @@ repository               : "nju-cn/nju-cn.github.io"
 author:
   # Biographic information
   avatar           : "cn.jpg"
-  name             : "Ning Chen"
+  name             : "Ning Chen 陈宁"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "The harder you work, the luckier you get"
+  location         : "No.1 Shizi Street, Gusu District, Suzhou, Jiangsu Province, China"
+  employer         : "Soochow University "
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ningc@suda.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&pli=1&user=zC2DXgQAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
