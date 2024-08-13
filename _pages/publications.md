@@ -30,36 +30,34 @@ and Distributed Systems (TPDS 2021, CCF A)  [[pdf](http://nju-cn.github.io/files
 
 
 ## <u>Conference Papers</u>
-[C.15] **Yu Chen**, Sheng Zhang, Ziying Zhou, Xiaokun Wang, Yu Liang, Ning Chen, Yuting Yan, Mingjun Xiao, Jie Wu, Zhuzhong Qian, and Harry Xu. MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics. The 40th IEEE International Conference on Data Engineering (ICDE 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
 
-[C.14] Shan Yu, Zhenting Zhu, **Yu Chen**, Hanchen Xu, Pengzhan Zhao, Yang Wang, Arthi Padmanabhan, Hugo Latapie, and Harry Xu. VQPy: An Object-Oriented Approach to Modern Video Analytics. The Seventh Annual Conference on Machine Learning and Systems (MLSys 2024), 2024 [[pdf](http://chenyu97.github.io)]
+[C.7] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
+Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual 
+International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
 
-[C.13] Yuting Yan, Sheng Zhang, Xiaokun Wang, Ning Chen, **Yu Chen**, Yu Liang, Mingjun Xiao and Sanglu Lu. VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
+[C.6] Zhi Ma, Sheng Zhang, **Ning Chen**, Zhuzhong Qian, Qing Gu, Yu Liang and Sanglu Lu. Dependent Task 
+offloading and Service Caching with State Management for Mobile Edge Computing. IEEE International 
+Conference on Communications (ICC 2023, CCF‑C) [[pdf](http://nju-cn.github.io/files/ICC_2023.pdf)]
 
-[C.12]
-Ning Chen, Sheng Zhang, Yu Liang, Jie Wu, **Yu Chen**, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual International Conference on Computer Communications (INFOCOM 2024, CCF-A), 2024 [[pdf](http://chenyu97.github.io)]
+[C.5] **Ning Chen**, Shuai Zhang, Sheng Zhang, Yuting Yan, Yu Chen and Sanglu Lu. ResMap: Exploiting Sparse 
+Residual Feature Map for Accelerating Cross‑Edge Video Analytics. IEEE Annual International Conference 
+on Computer Communications (INFOCOM 2023, CCF‑A) [[pdf](http://nju-cn.github.io/files/ResMap.pdf)]
 
-[J.11] Yingcheng Gu, Liu Wei, Ning Jiang, Huanyu Cheng, Kai Liu, Yu Song, Meizhao Liu, Lei Tang, **Yu Chen**, Sheng Zhang. Edge Server Assignment for Distributed Interactive Applications in Edge Environments. CCFSys'23, 2023 [[pdf](http://chenyu97.github.io)]
+[C.4] Yu Chen, Sheng Zhang, Yuting Yan, Yibo Jin, **Ning Chen**, Mingtao Ji and Mingjun Xiao. ����������2: Multi‑agent 
+Bandit‑based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on 
+Computer Communications (INFOCOM 2023, CCF‑A) [[pdf](http://nju-cn.github.io/files/INFOCOM_2023.pdf)]
 
-[C.10] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, Sheng Zhang, **Yu Chen**, Tuo Cao, Xiaohang Shi, Luis Vasquez, and Baoliu Ye. Adaptive Provisioning In-band Network Telemetry at Computing Power Network. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), Poster, 2023 [[pdf](http://chenyu97.github.io)]
+[C.3] Yu Chen, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, **Ning Chen** and Zhi Ma. Learning for 
+Crowdsourcing: Online Dispatch for Video Analytics with Guarantee. IEEE Annual International Conference 
+on Computer Communications (INFOCOM 2022, CCF‑A) [[pdf](http://nju-cn.github.io/files/INFOCOM_2022.pdf)]
 
-[C.9] Xiaohang Shi, Sheng Zhang, Ke Cheng, **Yu Chen**, Andong Zhu, and Sanglu Lu. OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR. In: IEEE/ACM International Symposium on Quality of Service (IWQoS 2023, CCF-B), 2023 [[pdf](http://chenyu97.github.io)]
+[C.2] Yibo Jin, Lei Jiao, Zhuzhong Qian1, Sheng Zhang, **Ning Chen**, Sanglu Lu, Xiaoliang Wang. Provisioning 
+Edge Inference as a Service via Online Learning. 2020 17th IEEE International Conference on Sensing, 
+Communication and Networking (SECON 2020, CCF‑B) [[pdf](http://nju-cn.github.io/files/SECON.pdf)]
 
-[C.8] Mingtao Ji, Chenwei Su, Yuting Yan, Zhuzhong Qian, **Yu Chen**, Yibo Jin, Sheng Zhang, and Baoliu Ye. INTView: Adaptive Planner for In-Band Network Telemetry without Detours. In: Proceedings of IEEE International Conference on Communications (ICC 2023, CCF-C), 2023 [[pdf](http://chenyu97.github.io)]
-
-[C.7] **Yu Chen**, Sheng Zhang, Yuting Yan, Yibo Jin, Ning Chen, Mingtao Ji and Mingjun Xiao. $Crowd^2$: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
-
-[C.6] Ning Chen, Shuai Zhang, Sheng Zhang, Yuting Yan, **Yu Chen** and Sanglu Lu. ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics. IEEE Annual International Conference on Computer Communications (INFOCOM 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
-
-[C.5] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, and Sanglu Lu. Multi-server multi-user game at edges for heterogeneous video analytics. In: Proceedings of IEEE International Conference on Communications (ICC 2022, CCF-C),  2022 [[pdf](http://chenyu97.github.io/files/Yu_ICC22.pdf)]
-
-[C.4] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Ning Chen and Zhi Ma. Learning for Crowdsourcing: Online Dispatch for Video Analytics with Guarantee. IEEE Annual International Conference on Computer Communications (INFOCOM 2022, CCF-A), Virtual Conference, 2022 [[pdf](http://chenyu97.github.io/files/Yu_INFOCOM22.pdf)]
-
-[C.3] **Yu Chen**, Sheng Zhang, Mingjun Xiao, Zhuzhong Qian, Jie Wu and Sanglu Lu. Multi-user Edge-assisted Video Analytics Task Offloading Game based on Deep Reinforcement Learning. IEEE International Conference on Parallel and Distributed Systems (ICPADS 2020, CCF-C), 2020 [[pdf](http://chenyu97.github.io/files/Yu_ICPADS20.pdf)]
-
-[C.2] Can Wang, Sheng Zhang, **Yu Chen**, Zhuzhong Qian, Jie Wu and Mingjun Xiao. Joint Configuration Adaptation and Bandwidth Allocation for Edge-based Real-time Video Analytics. IEEE Annual International Conference on Computer Communications (INFOCOM 2020, CCF-A), 2020 [[pdf](http://chenyu97.github.io/files/Can_INFOCOM20.pdf)]
-
-[C.1] **Yu Chen**, Sheng Zhang, Yanchao Zhao, Zhuzhong Qian, Yu Liang, Jidong Ge and Sanglu Lu. Efficient VNF Migration and Recovery in Edge Computing Environments. ACM 48th International Conference on Parallel Processing (ICPP 2019, CCF-B), Poster, 2019 [[pdf](http://chenyu97.github.io/files/Yu_ICPP19.pdf)]
+[C.1] **Ning Chen**, Sheng Zhang, Zhuzhong Qian, Jie Wu, Sanglu Lu. When learning joins edge: Real.time 
+proportional computation offloading via deep reinforcement learning. 2019 IEEE 25th International 
+Conference on Parallel and Distributed Systems (ICPADS) (ICPADS 2019, CCF C) [[pdf](http://nju-cn.github.io/files/ICPADS.pdf)]
 
 ## <u>Book Papers</u>
 [B.1] Shuai Zhang, **Yu Chen**, Sheng Zhang, Zhiqi Chen. Deepslicing: collaborative and adaptive cnn inference with low latency. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[pdf](http://chenyu97.github.io)]
