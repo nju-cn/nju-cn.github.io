@@ -5,20 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 ## <u>Journal Papers</u>
-[J.7] 顾颖程, 魏柳, 姜宁, 程环宇, 刘凯, 宋玉, 刘梅招, 汤雷, **陈彧**, 张胜. 边缘场景下面向分布式交互应用的服务器分配. 计算机工程与科学, 2024 [[pdf](http://chenyu97.github.io)]
 
-[J.6] Mingtao Ji, Chenwei Su, Yitao Fan, Yibo Jin, Zhuzhong Qian, Yuting Yan, **Yu Chen**, Tuo Cao, Sheng Zhang, Baoliu Ye. INTaaS: Provisioning In-band Network Telemetry as a service via online learning. Elsevier Computer Networks, (COMNET 2024, CCF-B), 2024 [[pdf](http://chenyu97.github.io)]
+[J.6] Ning Chen, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu. 
+ViChaser: Chase Your Viewpoint for Live Video Streaming with Block.Oriented Super Resolution. IEEE/ACM 
+TRANSACTIONS ON NETWORKING (TON 2023, CCF A) [[pdf](http://nju-cn.github.io/files/TON_ViChaser.pdf)]
 
-[J.5] Ning Chen, Sheng Zhang, Zhi Ma, **Yu Chen**, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang and Sanglu Lu. ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super-Resolution. IEEE/ACM Transactions on Networking (ToN 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
+[J.5] Yibo Jin, Lei Jiao, Mingtao Ji, Zhuzhong Qian, Sheng Zhang, Ning Chen and Sanglu Lu. Scheduling In. Band 
+Network Telemetry with Convergence.Preserving Federated Learning. IEEE/ACM TRANSACTIONS ON 
+NETWORKING (TON 2023, CCF A) [[pdf](http://nju-cn.github.io/files/TON-2023.pdf)]
 
-[J.4] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Wenzhong Li, Yu Liang and Sanglu Lu. Crowdsourcing upon Learning: Energy-aware Dispatch with Guarantee for Video Analytics. IEEE Transactions on Mobile Computing (TMC 2023, CCF-A), 2023 [[pdf](http://chenyu97.github.io)]
+[J.4] Ning Chen, Sheng Zhang, Siyi Quan, Zhi Ma, Zhuzhong Qian, Sanglu Lu. VCMaker: Content‑aware 
+configuration adaptation for video streaming and analysis in live augmented reality. Elsevier Computer 
+Networks (CN 2021, CCF‑B) [[pdf](http://nju-cn.github.io/files/VCMaker.pdf)]
 
-[J.3] **陈彧**,张胜,金熠波,钱柱中,陆桑璐. 基于博弈论的多服务器多用户视频分析任务卸载算法. 软件学报(CCF-A), 2022 [[pdf](http://chenyu97.github.io/files/Yu_JoS22.pdf)]
+[J.3] **Ning Chen**, Sheng Zhang, Jie Wu, Zhuzhong Qian, Sanglu Lu. Learning scheduling bursty requests in Mobile 
+Edge Computing using DeepLoad. Elsevier Computer Networks (CN 2021, CCF‑B) [[pdf](http://nju-cn.github.io/files/DeepLoad.pdf)]
 
-[J.2] **Yu Chen**, Sheng Zhang, Yibo Jin, Zhuzhong Qian, Mingjun Xiao, Jidong Ge and Sanglu Lu. LOCUS: User-perceived Delay-aware Service Placement and User Allocation in MEC Environment. IEEE Transactions on Parallel and Distributed Systems (TPDS 2022, CCF-A), 2022 [[pdf](http://chenyu97.github.io/files/Yu_TPDS22.pdf)]
+[J.2] Zhi Ma, Sheng Zhang, Zhiqi Chen, Tao Han, Zhuzhong Qian, Mingjun Xiao, **Ning Chen**, Jie Wu, Sanglu Lu. 
+Towards revenue‑driven multi‑user online task offloading in edge computing. IEEE Transactions on Parallel 
+and Distributed Systems (TPDS 2021, CCF A) [[pdf](http://nju-cn.github.io/files/TPDS_mazhi.pdf)]
 
 [J.1] **Ning Chen**, Siyi Quan, Sheng Zhang, Zhuzhong Qian, Yibo Jin, Jie Wu, Wenzhong Li, Sanglu Lu. Cuttlefish: Neural configuration adaptation for video analysis in live augmented reality. IEEE Transactions on Parallel 
-and Distributed Systems (TPDS 2021, CCF A)  [[pdf](http://nju-cn.github.io/files/Cuttlefish.pdf)]
+and Distributed Systems (TPDS 2021, CCF A)  [[pdf](http://nju-cn.github.io/files/Cuttlefish_TPDS.pdf)]
 
 
 ## <u>Conference Papers</u>
