@@ -6,15 +6,15 @@ author_profile: true
 ---
 ## <u>Journal Papers</u>
 
-[J.6] Ning Chen, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu. 
+[J.6] **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu. 
 ViChaser: Chase Your Viewpoint for Live Video Streaming with Block.Oriented Super Resolution. IEEE/ACM 
 TRANSACTIONS ON NETWORKING (TON 2023, CCF A) [[pdf](http://nju-cn.github.io/files/TON_ViChaser.pdf)]
 
-[J.5] Yibo Jin, Lei Jiao, Mingtao Ji, Zhuzhong Qian, Sheng Zhang, Ning Chen and Sanglu Lu. Scheduling In. Band 
+[J.5] Yibo Jin, Lei Jiao, Mingtao Ji, Zhuzhong Qian, Sheng Zhang, **Ning Chen** and Sanglu Lu. Scheduling In. Band 
 Network Telemetry with Convergence.Preserving Federated Learning. IEEE/ACM TRANSACTIONS ON 
 NETWORKING (TON 2023, CCF A) [[pdf](http://nju-cn.github.io/files/TON-2023.pdf)]
 
-[J.4] Ning Chen, Sheng Zhang, Siyi Quan, Zhi Ma, Zhuzhong Qian, Sanglu Lu. VCMaker: Content‑aware 
+[J.4] **Ning Chen**, Sheng Zhang, Siyi Quan, Zhi Ma, Zhuzhong Qian, Sanglu Lu. VCMaker: Content‑aware 
 configuration adaptation for video streaming and analysis in live augmented reality. Elsevier Computer 
 Networks (CN 2021, CCF‑B) [[pdf](http://nju-cn.github.io/files/VCMaker.pdf)]
 
