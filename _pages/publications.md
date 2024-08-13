@@ -43,7 +43,7 @@ Conference on Communications (ICC 2023, CCF‑C) [[pdf](http://nju-cn.github.io/
 Residual Feature Map for Accelerating Cross‑Edge Video Analytics. IEEE Annual International Conference 
 on Computer Communications (INFOCOM 2023, CCF‑A) [[pdf](http://nju-cn.github.io/files/ResMap.pdf)]
 
-[C.4] Yu Chen, Sheng Zhang, Yuting Yan, Yibo Jin, **Ning Chen**, Mingtao Ji and Mingjun Xiao. ����������2: Multi‑agent 
+[C.4] Yu Chen, Sheng Zhang, Yuting Yan, Yibo Jin, **Ning Chen**, Mingtao Ji and Mingjun Xiao. Crowd2: Multi‑agent 
 Bandit‑based Dispatch for Video Analytics upon Crowdsourcing. IEEE Annual International Conference on 
 Computer Communications (INFOCOM 2023, CCF‑A) [[pdf](http://nju-cn.github.io/files/INFOCOM_2023.pdf)]
 
