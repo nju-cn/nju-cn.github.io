@@ -31,13 +31,23 @@ and Distributed Systems (TPDS 2021, CCF A)  [[pdf](http://nju-cn.github.io/files
 
 ## <u>Conference Papers</u>
 
-[C.7] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
+[C.9] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
 Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual 
 International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
 
-[C.6] Zhi Ma, Sheng Zhang, **Ning Chen**, Zhuzhong Qian, Qing Gu, Yu Liang and Sanglu Lu. Dependent Task 
+[C.8] Yuting Yan, Sheng Zhang, Xiaokun Wang, **Ning Chen**, Yu Chen, Yu Liang, Mingjun Xiao, Sanglu Lu. 
+VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras IEEE Annual 
+International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
+
+
+[C.7] Zhi Ma, Sheng Zhang, **Ning Chen**, Zhuzhong Qian, Qing Gu, Yu Liang and Sanglu Lu. Dependent Task 
 offloading and Service Caching with State Management for Mobile Edge Computing. IEEE International 
 Conference on Communications (ICC 2023, CCF‑C) [[pdf](http://nju-cn.github.io/files/ICC_2023.pdf)]
+
+[C.6] Hesheng Sun, Xinyi Chen, Zhuzhong Qian, Zengji Li, **Ning Chen**, Tuo Cao, Suwei
+Xu, and Yitong Zhou. BIRP: Batch‑aware Inference Workload Redistribution and
+Parallel Scheme for Edge Collaboration. 12th International Congress Of Plant Pathology
+(ICPP, 2023, CCF-B) [[pdf](http://nju-cn.github.io/files/ICC_2023.pdf)]
 
 [C.5] **Ning Chen**, Shuai Zhang, Sheng Zhang, Yuting Yan, Yu Chen and Sanglu Lu. ResMap: Exploiting Sparse 
 Residual Feature Map for Accelerating Cross‑Edge Video Analytics. IEEE Annual International Conference 
@@ -60,8 +70,8 @@ proportional computation offloading via deep reinforcement learning. 2019 IEEE 2
 Conference on Parallel and Distributed Systems (ICPADS) (ICPADS 2019, CCF C) [[pdf](http://nju-cn.github.io/files/ICPADS.pdf)]
 
 ## <u>Book Papers</u>
-[B.1] Shuai Zhang, **Yu Chen**, Sheng Zhang, Zhiqi Chen. Deepslicing: collaborative and adaptive cnn inference with low latency. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[pdf](http://chenyu97.github.io)]
+[B.1] Ning Chen, Sheng Zhang, Sanglu. Improving Live Augmented Reality With Neural Configuration Adaptation. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[link](https://www.igi-global.com/chapter/improving-live-augmented-reality-with-neural-configuration-adaptation/337692)]
 
 
 ## <u>Patent</u>
-[P.1] Pengju Jiao, Sheng Zhang, **Yu Chen** and Zhuzhong Qian. VNF migration method and device and storage medium (一种VNF迁移方法、装置及存储介质). Authorization Number: 112019368 [[link](https://patentscope2.wipo.int/search/zh/detail.jsf?docId=CN313574349&_cid=JP2-LDNY63-89791-1)]
+[P.1] 陈宁，张胜，钱柱中，陆桑璐. 一种针对边缘网络下突发请求的强化学习调度 方案及设备.
