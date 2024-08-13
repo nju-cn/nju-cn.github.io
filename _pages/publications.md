@@ -70,8 +70,8 @@ proportional computation offloading via deep reinforcement learning. 2019 IEEE 2
 Conference on Parallel and Distributed Systems (ICPADS) (ICPADS 2019, CCF C) [[pdf](http://nju-cn.github.io/files/ICPADS.pdf)]
 
 ## <u>Book Papers</u>
-[B.1] Ning Chen, Sheng Zhang, Sanglu. Improving Live Augmented Reality With Neural Configuration Adaptation. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[link](https://www.igi-global.com/chapter/improving-live-augmented-reality-with-neural-configuration-adaptation/337692)]
+[B.1] **Ning Chen**, Sheng Zhang, Sanglu. Improving Live Augmented Reality With Neural Configuration Adaptation. Principles and Applications of Adaptive Artificial Intelligence, 2024 [[link](https://www.igi-global.com/chapter/improving-live-augmented-reality-with-neural-configuration-adaptation/337692)]
 
 
 ## <u>Patent</u>
-[P.1] 陈宁，张胜，钱柱中，陆桑璐. 一种针对边缘网络下突发请求的强化学习调度 方案及设备.
+[P.1] **陈宁**，张胜，钱柱中，陆桑璐. 一种针对边缘网络下突发请求的强化学习调度 方案及设备.
