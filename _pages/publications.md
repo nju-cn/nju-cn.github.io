@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## <u>Journal Papers</u>
+[J.7] Xiaohang Shi, Sheng Zhang, Jie Wu, **Ning Chen**, Ke Cheng, Yu Liang, Sanglu Lu. AdaPyramid: Adaptive Pyramid for Accelerating High-Resolution Object Detection on Edge Devices.
+IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF A) [[pdf](http://nju-cn.github.io/files/AdaPyramid        .pdf)]
 
 [J.6] **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu. 
 ViChaser: Chase Your Viewpoint for Live Video Streaming with Block.Oriented Super Resolution. IEEE/ACM 
@@ -40,7 +42,7 @@ MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for 
 
 [C.8] Yuting Yan, Sheng Zhang, Xiaokun Wang, **Ning Chen**, Yu Chen, Yu Liang, Mingjun Xiao, Sanglu Lu. 
 VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras IEEE Annual 
-International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
+International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/VisFlow.pdf)]
 
 
 [C.7] Zhi Ma, Sheng Zhang, **Ning Chen**, Zhuzhong Qian, Qing Gu, Yu Liang and Sanglu Lu. Dependent Task 
@@ -50,7 +52,7 @@ Conference on Communications (ICC 2023, CCF‑C) [[pdf](http://nju-cn.github.io/
 [C.6] Hesheng Sun, Xinyi Chen, Zhuzhong Qian, Zengji Li, **Ning Chen**, Tuo Cao, Suwei
 Xu, and Yitong Zhou. BIRP: Batch‑aware Inference Workload Redistribution and
 Parallel Scheme for Edge Collaboration. 12th International Congress Of Plant Pathology
-(ICPP, 2023, CCF-B) [[pdf](http://nju-cn.github.io/files/ICC_2023.pdf)]
+(ICPP, 2023, CCF-B) [[pdf](http://nju-cn.github.io/files/BIRP.pdf)]
 
 [C.5] **Ning Chen**, Shuai Zhang, Sheng Zhang, Yuting Yan, Yu Chen and Sanglu Lu. ResMap: Exploiting Sparse 
 Residual Feature Map for Accelerating Cross‑Edge Video Analytics. IEEE Annual International Conference 
