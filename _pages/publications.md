@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## <u>Journal Papers</u>
 [J.7] Xiaohang Shi, Sheng Zhang, Jie Wu, **Ning Chen**, Ke Cheng, Yu Liang, Sanglu Lu. AdaPyramid: Adaptive Pyramid for Accelerating High-Resolution Object Detection on Edge Devices.
-IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF A) [[pdf](http://nju-cn.github.io/files/AdaPyramid        .pdf)]
+IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF A) [[pdf](http://nju-cn.github.io/files/AdaPyramid.pdf)]
 
 [J.6] **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu. 
 ViChaser: Chase Your Viewpoint for Live Video Streaming with Block.Oriented Super Resolution. IEEE/ACM 
