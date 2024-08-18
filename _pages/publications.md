@@ -31,9 +31,12 @@ and Distributed Systems (TPDS 2021, CCF A)  [[pdf](http://nju-cn.github.io/files
 
 ## <u>Conference Papers</u>
 
-[C.9] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
+[C.10] **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu. TileSR: 
 Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity. IEEE Annual 
 International Conference on Computer Communications (INFOCOM 2024, CCF‑A) [[pdf](http://nju-cn.github.io/files/TileSR_INFOCOM.pdf)]
+
+[C.9] Yu Chen, Sheng Zhang, Ziying Zhou, Xiaokun Wang, Yu Liang, **Ning Chen**, Yuting Yan, Mingjun Xiao, Jie Wu, Zhuzhong Qian, Harry Xu. 
+MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics. Proc. of the 40th IEEE International Conference on Data Engineering (ICDE 2024, CCF-A) [[pdf](http://nju-cn.github.io/files/MARCO-ICDE2024.pdf)]
 
 [C.8] Yuting Yan, Sheng Zhang, Xiaokun Wang, **Ning Chen**, Yu Chen, Yu Liang, Mingjun Xiao, Sanglu Lu. 
 VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras IEEE Annual 
