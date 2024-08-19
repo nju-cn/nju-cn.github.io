@@ -14,3 +14,14 @@ I am now a Lecturer in Department of Computer Science and Technology in **SooCho
  `Edge for AI`: Applying edge computing paradigm to advance the AI applications (e.g., video analytics, video streaming enhancement and federal learning) (INFOCOM 23, CN 21).
  
 In recent two years, I’ve worked on AI/ML‑oriented video system optimization.
+
+
+
+---
+permalink: /
+title: "News"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
