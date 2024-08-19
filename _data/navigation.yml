@@ -11,17 +11,7 @@ main:
   - title: "Biography"
     url: /biography/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Award"
+    url: /award/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
