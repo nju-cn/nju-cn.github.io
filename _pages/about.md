@@ -45,13 +45,13 @@ hr:nth-of-type(2) {
 
 * **TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity**
 
-  Accepted by IEEE **INFOCOM** 2024, **CCF‑A**   <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/TileSR_INFOCOM.pdf" target="_blank">link</a>  <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/infocom2024.pptx" target="_blank">slides</a>
+  Accepted by IEEE **INFOCOM** 2024, **CCF‑A**   <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/TileSR_INFOCOM.pdf" target="_blank">link</a>  <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/Infocom2024.pptx" target="_blank">slides</a>
 
   **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu.
 
 * **ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross‑Edge Video Analytics**
 
-  Accepted by IEEE **INFOCOM** 2023, **CCF‑A**  <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/ResMap.pdf" target="_blank">link</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="https://github.com/nju-cn/ResMap" target="_blank">code</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/infocom2023.pptx" target="_blank">slides</a>
+  Accepted by IEEE **INFOCOM** 2023, **CCF‑A**  <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/ResMap.pdf" target="_blank">link</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="https://github.com/nju-cn/ResMap" target="_blank">code</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="http://nju-cn.github.io/files/Infocom2023.pptx" target="_blank">slides</a>
 
   **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu.
 
