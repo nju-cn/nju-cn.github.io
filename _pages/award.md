@@ -5,6 +5,14 @@ permalink: /award/
 author_profile: true
 ---
 
+<style>
+h1 { font: 26pt Microsoft YaHei !important; }
+h2 { font: 22pt Microsoft YaHei !important; }
+h3 { font: 16pt Microsoft YaHei !important; }
+p { font: 14pt kai !important; }
+</style>
+
+
 ## <u>荣誉</u>
 1. 2024年南京大学优秀博士论文
 2. 2024年南京大学优秀毕业生
