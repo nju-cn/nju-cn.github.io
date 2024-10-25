@@ -39,7 +39,7 @@ hr:nth-of-type(2) {
 
 * **ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super Resolution** 
 
-  Accepted by  IEEE/ACM **TON** 2023, **CCF A**    <a href="http://nju-cn.github.io/files/TON_ViChaser.pdf" style="background: red;">link</a>    <a href="http://nju-cn.github.io/files/TON_ViChaser.pdf" style="background: red; color: white;">link</a>
+  Accepted by  IEEE/ACM **TON** 2023, **CCF A**       <a href="http://nju-cn.github.io/files/TON_ViChaser.pdf" style="background: red; color: white;">link</a>
 
   **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu.
 
