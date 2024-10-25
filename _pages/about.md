@@ -45,19 +45,19 @@ hr:nth-of-type(2) {
 
 * **TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity**
 
-  Accepted by IEEE **INFOCOM** 2024, **CCF‑A**   <a href="http://nju-cn.github.io/files/TileSR_INFOCOM.pdf" style="background: red; color: white;">link</a>     <a href="http://nju-cn.github.io/files/Infocom2024.pptx" style="background: blue; color: white;">slides</a>
+  Accepted by IEEE **INFOCOM** 2024, **CCF‑A**       <a href="http://nju-cn.github.io/files/TileSR_INFOCOM.pdf" style="background: red; color: white;">link</a>         <a href="http://nju-cn.github.io/files/Infocom2024.pptx" style="background: blue; color: white;">slides</a>
 
   **Ning Chen**, Sheng Zhang, Yu Liang, Jie Wu, Yu Chen, Yuting Yan, Zhuzhong Qian and Sanglu Lu.
 
 * **ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross‑Edge Video Analytics**
 
-  Accepted by IEEE **INFOCOM** 2023, **CCF‑A**     <a href="http://nju-cn.github.io/files/ResMap.pdf" style="background: red; color: white;">link</a>     <a href="http://nju-cn.github.io/files/Infocom2023.pptx" style="background: blue; color: white;">slides</a>     <a href="https://github.com/nju-cn/ResMap" style="background: orange; color: white;">code</a>
+  Accepted by IEEE **INFOCOM** 2023, **CCF‑A**         <a href="http://nju-cn.github.io/files/ResMap.pdf" style="background: red; color: white;">link</a>         <a href="http://nju-cn.github.io/files/Infocom2023.pptx" style="background: blue; color: white;">slides</a>         <a href="https://github.com/nju-cn/ResMap" style="background: orange; color: white;">code</a>
 
   **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu.
 
 * **Cuttlefish: Neural configuration adaptation for video analysis in live augmented reality**
 
-  Accepted by IEEE **TPDS** 2021, **CCF-A**     <a href="http://nju-cn.github.io/files/Cuttlefish_TPDS.pdf" style="background: red; color: white;">link</a>     <a href="http://nju-cn.github.io/files/Cuttlefish.pptx" style="background: blue; color: white;">slides</a>     <a href="https://github.com/nju-cn/Cuttlefish" style="background: orange; color: white;">code</a>
+  Accepted by IEEE **TPDS** 2021, **CCF-A**         <a href="http://nju-cn.github.io/files/Cuttlefish_TPDS.pdf" style="background: red; color: white;">link</a>         <a href="http://nju-cn.github.io/files/Cuttlefish.pptx" style="background: blue; color: white;">slides</a>         <a href="https://github.com/nju-cn/Cuttlefish" style="background: orange; color: white;">code</a>
 
   **Ning Chen**, Siyi Quan, Sheng Zhang, Zhuzhong Qian, Yibo Jin, Jie Wu, Wenzhong Li, Sanglu Lu. 
 
