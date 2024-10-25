@@ -30,6 +30,8 @@ I am now a Lecturer in Department of Computer Science and Technology in **[SooCh
 
 ***
 
+<p>
+
 Focusing on optimizing edge video inference systems, my research aims to achieve low-latency, low-power consumption, and  high-performance video inference in resource-constrained edge  environments. Specifically, my research encompasses the following three  core sub-directions:
 
 **Adaptive Video Configuration**: In edge computing environments, due to hardware limitations (such as computational power, memory, and  battery life), network bandwidth uncertainty, and video content  diversity, traditional fixed-configuration methods pose significant  challenges to the real-time performance and accuracy of video inference. Thus, I explore dynamically adjusting video configurations (such as  resolution, frame rate, compression rate, bitrate, etc.) to optimize  system performance under varying resource availability while meeting  latency and accuracy requirements. 
@@ -38,7 +40,7 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 
 **Collaborative Inference with Heterogeneous Devices**: Single-device inference cannot guarantee real-time performance. With the widespread  deployment of devices like smart cameras, I explore collaborative  inference among multiple heterogeneous devices to accelerate inference.  This collaboration can take two forms: (1) **Model partitioning and  distributed deployment**: Based on the runtime status of heterogeneous  devices and the size of intermediate model data, the model is divided  into multiple parts and deployed across several heterogeneous devices.  This pipelined approach increases throughput and reduces average  processing latency. (2) **Data partitioning and parallel offloading**:  Data is partitioned based on video features and offloaded to  heterogeneous devices for parallel inference, thus accelerating the  inference process.
 
-
+</p>
 
 
 ## **Selected Publications**
