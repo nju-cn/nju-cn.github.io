@@ -34,5 +34,7 @@ hr:nth-of-type(2) {
 
 * **ViChaser: Chase Your Viewpoint for Live Video Streaming with Block.Oriented Super Resolution**
 
-  ##### **Accepted by  IEEE/ACM TRANSACTIONS ON NETWORKING (TON 2023, CCF A) **  <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="https://dl.acm.org/doi/10.1145/3651890.3672268" target="_blank">link</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="https://github.com/duowuyms/NetLLM" target="_blank">code</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="pdf/sigcomm_2024_NetLLM.pptx" target="_blank">slides</a>
+  **Accepted by  IEEE/ACM TRANSACTIONS ON NETWORKING (TON 2023, CCF A) **  <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="https://dl.acm.org/doi/10.1145/3651890.3672268" target="_blank">link</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="https://github.com/duowuyms/NetLLM" target="_blank">code</a> <a class="w3-button w3-round-xxlarge w3-small w3-light-blue" href="pdf/sigcomm_2024_NetLLM.pptx" target="_blank">slides</a>
+
+  **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu.
 
