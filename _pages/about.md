@@ -16,7 +16,7 @@ p { font: 14pt kai !important; }
 
 
 
-## <u>About</u>
+## <u>**About**</u>
 
 
 
@@ -33,7 +33,7 @@ In recent two years, I’ve worked on AI/ML‑oriented video system optimization
 
 
 
-## <u>Selected Publications</u>
+## <u>**Selected Publications**</u>
 
 
 
