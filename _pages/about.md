@@ -92,7 +92,7 @@ hr:nth-of-type(2) {
 
   **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu.
 
-* **Cuttlefish: Neural configuration adaptation for video analysis in live augmented reality**
+* **Cuttlefish: Neural Configuration Adaptation for Video Analysis in live Augmented Reality**
 
   Accepted by IEEE **TPDS** 2021, **CCF-A**         <a href="http://nju-cn.github.io/files/Cuttlefish_TPDS.pdf" style="background: red; color: white;">link</a>         <a href="http://nju-cn.github.io/files/Cuttlefish.pptx" style="background: blue; color: white;">slides</a>         <a href="https://github.com/nju-cn/Cuttlefish" style="background: orange; color: white;">code</a>
 
