@@ -14,9 +14,9 @@ h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
 
+<style>   h1, h2, h3, h4, h5, h6 {     border-bottom: none;   } </style>
 
-
-## **About**
+## **About** 
 
 ***
 
