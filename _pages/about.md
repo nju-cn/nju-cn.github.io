@@ -23,9 +23,8 @@ I am now a Lecturer in Department of Computer Science and Technology in **SooCho
 In recent two years, I’ve worked on AI/ML‑oriented video system optimization.
 
 
-## __Selected Publications__
+# Selected Publications
 
-***
 <style>
 hr:nth-of-type(1) {
   border-width: 5px 0 0 0 !important;
