@@ -53,7 +53,6 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 
 
 
-
 ## **Selected Publications**
 
 ***
@@ -68,6 +67,10 @@ hr:nth-of-type(2) {
   border-color: orange !important;
 }
     hr:nth-of-type(3) {
+  border-width: 5px 0 0 0 !important;
+  border-color: orange !important;
+}
+     hr:nth-of-type(4) {
   border-width: 5px 0 0 0 !important;
   border-color: orange !important;
 }
@@ -100,6 +103,14 @@ hr:nth-of-type(2) {
 
   
 
-  #  My Website Visitors Map 
+## **Contact**
 
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=h7iLFRCDGHEbTRSQRJkKlTs6pnyREar8MxhBmGCXWdA&cl=ffffff&w=a"></script>
+***
+
+**Name:** Ning Chen （陈宁）
+
+**Address:** Soochow University, Science and Technology Experiment Building, 430
+
+**Email:** ningc@suda.edu.cn
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=h7iLFRCDGHEbTRSQRJkKlTs6pnyREar8MxhBmGCXWdA&cl=ffffff&w=a"></script>
