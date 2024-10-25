@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "HOMEPAGE"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +22,21 @@ p { font: 14pt kai !important; }
 
 
 
-I am now a Lecturer in Department of Computer Science and Technology in **SooChow University**. My research interests are broadly in edge intelligence. More specifically, I focus on two different directions:
+I am now a Lecturer in Department of Computer Science and Technology in **[SooChow University](https://scst.suda.edu.cn/)**, and working in the team leaded by  <a href="https://scst.suda.edu.cn/0e/37/c30767a527927/page.htm" >**He Huang**</a>. Before that, I obtained my Ph.D. degree in Department of Computer Science and Technology in [**Nanjing University**](https://cs.nju.edu.cn/main.htm), Nanjing in 2024, advised by Prof. [**Sanglu Lu**](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and [**Sheng Zhang**](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm).
+
+
+
+## **Research Interests** 
+
+***
+
+
+
+
+
+
+
+My research interests are broadly in edge intelligence. More specifically, I focus on two different directions:
 
  **AI for Edge** : Using ML algorithms (e.g., reinforcement learning) to solve the potential edge‑oriented problems, e.g., resource allocation and request scheduling (TPDS 2020, CN 2021, ICPADS 2019);
 
