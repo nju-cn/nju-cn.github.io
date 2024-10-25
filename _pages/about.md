@@ -114,5 +114,3 @@ hr:nth-of-type(2) {
 **Email:** ningc@suda.edu.cn
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_JrSqe6LHWABefXTXh3X68RPF-N4Xh31ywvL7P24xAE&cl=ffffff&w=a"></script>
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_JrSqe6LHWABefXTXh3X68RPF-N4Xh31ywvL7P24xAE"></script>
