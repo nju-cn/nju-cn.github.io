@@ -24,10 +24,10 @@ In recent two years, I’ve worked on AI/ML‑oriented video system optimization
 <style>
 hr:nth-of-type(1) {
   border-width: 5px 0 0 0 !important;
-  border-color: blue !important;
+  border-color: orange !important;
 }
 hr:nth-of-type(2) {
   border-width: 5px 0 0 0 !important;
-  border-color: blue !important;
+  border-color: orange !important;
 }
 </style>
