@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <style>
-h1 { font: 26pt song !important; }
-h2 { font: 22pt song !important; }
-h3 { font: 16pt song !important; }
+h1 { font: 26pt Microsoft YaHei !important; }
+h2 { font: 22pt Microsoft YaHei !important; }
+h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
 
@@ -23,8 +23,9 @@ I am now a Lecturer in Department of Computer Science and Technology in **SooCho
 In recent two years, I’ve worked on AI/ML‑oriented video system optimization.
 
 
-# Selected Publications
+## __Selected Publications__
 
+***
 <style>
 hr:nth-of-type(1) {
   border-width: 5px 0 0 0 !important;
