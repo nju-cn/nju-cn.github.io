@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<style>
+h1 { font: 26pt Microsoft YaHei !important; }
+h2 { font: 22pt Microsoft YaHei !important; }
+h3 { font: 16pt Microsoft YaHei !important; }
+p { font: 14pt kai !important; }
+</style>
+
 ## <u>Journal Papers</u>
 [J.7] Xiaohang Shi, Sheng Zhang, Jie Wu, **Ning Chen**, Ke Cheng, Yu Liang, Sanglu Lu. AdaPyramid: Adaptive Pyramid for Accelerating High-Resolution Object Detection on Edge Devices.
 IEEE Transactions on Parallel and Distributed Systems (TPDS 2023, CCF A) [[pdf](http://nju-cn.github.io/files/AdaPyramid.pdf)]
