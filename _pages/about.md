@@ -14,7 +14,9 @@ h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
 
-## __About__
+
+
+## <u>About</u>
 
 
 
@@ -31,7 +33,7 @@ In recent two years, I’ve worked on AI/ML‑oriented video system optimization
 
 
 
-## <u>__Selected Publications__</u>
+## <u>Selected Publications</u>
 
 
 
