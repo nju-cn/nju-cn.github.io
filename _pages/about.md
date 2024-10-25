@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,12 @@ h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
 
+## __About__
+
+
+
+
+
 I am now a Lecturer in Department of Computer Science and Technology in **SooChow University**. My research interests are broadly in edge intelligence. More specifically, I focus on two different directions:
 
  **AI for Edge** : Using ML algorithms (e.g., reinforcement learning) to solve the potential edge‑oriented problems, e.g., resource allocation and request scheduling (TPDS 2020, CN 2021, ICPADS 2019);
@@ -23,9 +29,12 @@ I am now a Lecturer in Department of Computer Science and Technology in **SooCho
 In recent two years, I’ve worked on AI/ML‑oriented video system optimization.
 
 
-## __Selected Publications__
 
-***
+
+## <u>__Selected Publications__</u>
+
+
+
 <style>
 hr:nth-of-type(1) {
   border-width: 5px 0 0 0 !important;
