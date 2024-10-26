@@ -13,5 +13,10 @@ main:
 
   - title: "Award"
     url: /award/
-    
+
+  - title: "Life"
+    url: /life/
+
+  - title: "Talk"
+    url: /talk/
 
