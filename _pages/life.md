@@ -14,4 +14,8 @@ p { font: 14pt kai !important; }
 
 # The research group leaded by [Sheng Zhang](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) during the doctoral phase
 
-![团队钓虾](C:\Users\Dell\Desktop\file\苹果13照片\2024-06-30 010507.jpg)
+<h4>插入一张图片</h4>
+<p>图片前的文字。</p>
+<p><img src="http://nju-cn.github.io/imgage_group/diaoxia.jpg" referrerpolicy="no-referrer"></p>
+<p>图片后的文字。</p>
+
