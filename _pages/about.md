@@ -33,7 +33,7 @@ p { font: 14pt kai !important; }
 
 
 
-I am now a Lecturer in Department of Computer Science and Technology in **[SooChow University](https://scst.suda.edu.cn/)**, and working in the team leaded by Prof.  <a href="https://scst.suda.edu.cn/0e/37/c30767a527927/page.htm" >**He Huang**</a>. Before that, I obtained my Ph.D. degree in Department of Computer Science and Technology in [**Nanjing University**](https://cs.nju.edu.cn/main.htm), Nanjing in 2024, advised by Prof. [**Sanglu Lu**](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and [**Sheng Zhang**](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm).
+I am now a Lecturer in Department of Computer Science and Technology in **[SooChow University](https://scst.suda.edu.cn/)**, and working in the team leaded by Prof.  <a href="https://scst.suda.edu.cn/0e/37/c30767a527927/page.htm" >**He Huang**</a>. Before that, I obtained my Ph.D. degree in Department of Computer Science and Technology in [**Nanjing University**](https://cs.nju.edu.cn/main.htm), Nanjing in 2024, advised by Prof. [**Sanglu Lu**](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and [**Sheng Zhang**](https://cs.nju.edu.cn/c9/e4/c2640a51684/page.htm).
 
 
 
