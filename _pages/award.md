@@ -12,7 +12,6 @@ h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
 
-Here is the translation:
 
 **Honors**
 - 2024 Excellent Doctoral Dissertation of Nanjing University
