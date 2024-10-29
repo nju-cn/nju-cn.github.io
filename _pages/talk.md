@@ -17,8 +17,8 @@ p { font: 14pt kai !important; }
 
 **20–23 May 2024 // Vancouver, Canada**
 
-<p><img src="http://nju-cn.github.io/image_graduate/6.jpg" referrerpolicy="no-referrer" width="80%"></p>
-<p><img src="http://nju-cn.github.io/image_graduate/7.jpg" referrerpolicy="no-referrer" width="80%"></p>
-<p><img src="http://nju-cn.github.io/image_graduate/8.jpg" referrerpolicy="no-referrer" width="80%"></p>
-<p><img src="http://nju-cn.github.io/image_graduate/9.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/6.jpg" referrerpolicy="no-referrer" width="90%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/7.jpg" referrerpolicy="no-referrer" width="90%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/8.jpg" referrerpolicy="no-referrer" width="90%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/9.jpg" referrerpolicy="no-referrer" width="90%"></p>
 
