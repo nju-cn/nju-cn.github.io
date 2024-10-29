@@ -11,38 +11,12 @@ h2 { font: 22pt Microsoft YaHei !important; }
 h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
-**TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity** 
+**TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity**
+**IEEE International Conference on Computer Communications (INFOCOM)**
+**20–23 May 2024 // Vancouver, Canada**
 
-<p><img src="http://nju-cn.github.io/imgage_group/diaoxia.jpg" referrerpolicy="no-referrer" width="80%"></p>
-
-
-
-**Photo with my advisor**
-
-<p><img src="http://nju-cn.github.io/image_graduate/1.jpg" referrerpolicy="no-referrer" width="80%"></p>
-
-
-
-**Photo with Phd Yuchu Fang and Mingkai Lin**
-
-<p><img src="http://nju-cn.github.io/image_graduate/1-2.jpg" referrerpolicy="no-referrer" width="80%"></p>
-
-
-
-**Photo on the "Jinlin University" stone **
-
-<p><img src="http://nju-cn.github.io/image_graduate/2.jpg" referrerpolicy="no-referrer" width="80%"></p>
-<p><img src="http://nju-cn.github.io/image_graduate/3.jpg" referrerpolicy="no-referrer" width="80%"></p>
-
-
-
-**Graduation Ceremony of the School of Computer Science and Technology**
-
-<p><img src="http://nju-cn.github.io/image_graduate/4.jpg" referrerpolicy="no-referrer" width="80%"></p>
-
-**Photo with my father and brother**
-
-<p><img src="http://nju-cn.github.io/image_graduate/4.jpg" referrerpolicy="no-referrer" width="80%"></p>
-
-
+<p><img src="http://nju-cn.github.io/image_graduate/6.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/7.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/8.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/9.jpg" referrerpolicy="no-referrer" width="80%"></p>
 
