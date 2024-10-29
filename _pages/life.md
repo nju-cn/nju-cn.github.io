@@ -13,8 +13,7 @@ p { font: 14pt kai !important; }
 </style>
 ##  Edge Intelligence Group leaded by [Sheng Zhang](https://cs.nju.edu.cn/c9/e4/c2640a51684/page.htm) 
 
-### 钓虾活动
-<p><img src="http://nju-cn.github.io/imgage_group/diaoxia.jpg" referrerpolicy="no-referrer" width="90%"></p>
+<p><img src="http://nju-cn.github.io/imgage_group/diaoxia.jpg" referrerpolicy="no-referrer" width="80%"></p>
 
 
 
