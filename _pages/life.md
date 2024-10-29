@@ -40,9 +40,4 @@ p { font: 14pt kai !important; }
 
 <p><img src="http://nju-cn.github.io/image_graduate/4.jpg" referrerpolicy="no-referrer" width="80%"></p>
 
-**Photo with my father and brother**
-
-<p><img src="http://nju-cn.github.io/image_graduate/5.heic" referrerpolicy="no-referrer" width="80%"></p>
-
-
 
