@@ -29,7 +29,7 @@ p { font: 14pt kai !important; }
 
 
 
-**Photo on the "Jinlin University" stone**
+**Photo on the "Jinling University" stone**
 
 <p><img src="http://nju-cn.github.io/image_graduate/2.jpg" referrerpolicy="no-referrer" width="80%"></p>
 <p><img src="http://nju-cn.github.io/image_graduate/3.jpg" referrerpolicy="no-referrer" width="80%"></p>
