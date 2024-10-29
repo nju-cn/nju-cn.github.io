@@ -93,7 +93,7 @@ hr:nth-of-type(2) {
 
   Accepted by IEEE **INFOCOM** 2023, **CCF‑A**         <a href="http://nju-cn.github.io/files/ResMap.pdf" style="background: red; color: white;">link</a>         <a href="http://nju-cn.github.io/files/Infocom2023.pptx" style="background: blue; color: white;">slides</a>         <a href="https://github.com/nju-cn/ResMap" style="background: orange; color: white;">code</a>
 
-  **Ning Chen**, Sheng Zhang, Zhi Ma, Yu Chen, Yibo Jin, Jie Wu, Zhuzhong Qian, Yu Liang, and Sanglu Lu.
+  **Ning Chen**, Shuai Zhang, Sheng Zhang, Yuting Yan, Yu Chen and Sanglu Lu.
 
 * **Cuttlefish: Neural Configuration Adaptation for Video Analysis in live Augmented Reality**
 
