@@ -12,7 +12,9 @@ h3 { font: 16pt Microsoft YaHei !important; }
 p { font: 14pt kai !important; }
 </style>
 **TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity**
+
 **IEEE International Conference on Computer Communications (INFOCOM)**
+
 **20–23 May 2024 // Vancouver, Canada**
 
 <p><img src="http://nju-cn.github.io/image_graduate/6.jpg" referrerpolicy="no-referrer" width="80%"></p>
