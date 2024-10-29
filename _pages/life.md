@@ -16,9 +16,9 @@ p { font: 14pt kai !important; }
 <p><img src="http://nju-cn.github.io/imgage_group/diaoxia.jpg" referrerpolicy="no-referrer" width="80%"></p>
 
 
-<p><img src="http://nju-cn.github.io/imgage_graduate/1.jpg" referrerpolicy="no-referrer" width="80%"></p>
-<p><img src="http://nju-cn.github.io/imgage_graduate/2.jpg" referrerpolicy="no-referrer" width="80%"></p>
-<p><img src="http://nju-cn.github.io/imgage_graduate/3.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/1.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/2.jpg" referrerpolicy="no-referrer" width="80%"></p>
+<p><img src="http://nju-cn.github.io/image_graduate/3.jpg" referrerpolicy="no-referrer" width="80%"></p>
 
 
 
