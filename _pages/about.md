@@ -51,7 +51,25 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 
 **<font color="red">Collaborative Inference with Heterogeneous Devices: </font>**Single-device inference cannot guarantee real-time performance. With the widespread  deployment of devices like smart cameras, I explore collaborative  inference among multiple heterogeneous devices to accelerate inference.  This collaboration can take two forms: (1) **Model partitioning and  distributed deployment**: Based on the runtime status of heterogeneous  devices and the size of intermediate model data, the model is divided  into multiple parts and deployed across several heterogeneous devices.  This pipelined approach increases throughput and reduces average  processing latency. (2) **Data partitioning and parallel offloading**:  Data is partitioned based on video features and offloaded to  heterogeneous devices for parallel inference, thus accelerating the  inference process.
 
+## **News** 
 
+***
+
+
+<div style="display: flex; align-items: center;">
+    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <span style="font-size: 16px;">
+        <strong style="color: red;">(2024/11/9)</strong> <strong style="color: blue;">Ning Chen</strong> was selected for the <strong>CCF 2024 Networks and Data Communications Specialised Committee's Outstanding Doctoral Dissertation Degree Incentive Scheme!</strong>
+    </span>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <span style="font-size: 14px;">
+        <strong style="color: red;">(11/2024)</strong> Our paper "AdaPyramid: Adaptive Pyramid for Accelerating High-resolution Object Detection on Edge Devices" is accepted by <strong>TMC</strong>!
+    </span>
+</div>
 
 ## **Selected Publications**
 
@@ -71,6 +89,10 @@ hr:nth-of-type(2) {
   border-color: orange !important;
 }
      hr:nth-of-type(4) {
+  border-width: 5px 0 0 0 !important;
+  border-color: orange !important;
+}
+    hr:nth-of-type(5) {
   border-width: 5px 0 0 0 !important;
   border-color: orange !important;
 }
