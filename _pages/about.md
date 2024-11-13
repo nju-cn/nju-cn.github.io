@@ -27,21 +27,13 @@ p { font: 14pt kai !important; }
 
 
 
-## **About** 
-
-***
-
-
+## **ABOUT** 
 
 I am now a Lecturer in Department of Computer Science and Technology in **[SooChow University](https://scst.suda.edu.cn/)**, and working in the team leaded by Prof.  <a href="https://scst.suda.edu.cn/0e/37/c30767a527927/page.htm" >**He Huang**</a>. Before that, I obtained my Ph.D. degree in Department of Computer Science and Technology in [**Nanjing University**](https://cs.nju.edu.cn/main.htm), Nanjing in 2024, advised by Prof. [**Sanglu Lu**](https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm) and [**Sheng Zhang**](https://cs.nju.edu.cn/c9/e4/c2640a51684/page.htm).
 
 
 
-## **Research Interests** 
-
-***
-
-
+## **RESEARCH INTERESTS** 
 
 Focusing on optimizing edge video inference systems, my research aims to achieve low-latency, low-power consumption, and  high-performance video inference in resource-constrained edge  environments. Specifically, my research encompasses the following three  core sub-directions:
 
@@ -51,9 +43,13 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 
 **<font color="red">Collaborative Inference with Heterogeneous Devices: </font>**Single-device inference cannot guarantee real-time performance. With the widespread  deployment of devices like smart cameras, I explore collaborative  inference among multiple heterogeneous devices to accelerate inference.  This collaboration can take two forms: (1) **Model partitioning and  distributed deployment**: Based on the runtime status of heterogeneous  devices and the size of intermediate model data, the model is divided  into multiple parts and deployed across several heterogeneous devices.  This pipelined approach increases throughput and reduces average  processing latency. (2) **Data partitioning and parallel offloading**:  Data is partitioned based on video features and offloaded to  heterogeneous devices for parallel inference, thus accelerating the  inference process.
 
-## **News** 
+## **RECRUITING**
 
-***
+I am looking for well motivated students to work on  cutting-edge research projects. Both undergraduate and graduate students are welcome!
+
+***<font color="red">2025年我组有空缺硕士指标，欢迎同学们联系！</font>***
+
+## **News** 
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
@@ -142,8 +138,6 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 
 ## **Selected Publications**
 
-***
-
 <style>
 hr:nth-of-type(1) {
   border-width: 5px 0 0 0 !important;
@@ -195,8 +189,6 @@ hr:nth-of-type(2) {
   
 
 ## **Contact**
-
-***
 
 **Name:** Ning Chen （陈宁）
 
