@@ -56,84 +56,84 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 ***
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2024/11/9)</strong> <strong style="color: blue;">Ning Chen</strong> is selected for the <strong>CCF 2024 Networks and Data Communications Specialised Committee's Outstanding Doctoral Dissertation Degree Incentive Scheme!</strong>
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2024/7/5)</strong> <strong style="color: blue;">Ning Chen</strong> joins <strong>Soochow University as an outstanding young scholar</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2024/5/28)</strong> <strong style="color: blue;">Ning Chen</strong> passes the <strong>Doctoral Dissertation Defence at Nanjing University</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2024/2/12)</strong> Our paper "<strong style="color: green; text-decoration: underline;"> MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics</strong>" is accepted by <strong>ICDE 2024</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2023/12/13)</strong> Our paper "<strong style="color: green; text-decoration: underline;"> AdaPyramid: Adaptive Pyramid for Accelerating High-resolution Object Detection on Edge Devices</strong>" is accepted by <strong>TMC</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2023/12/1)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras</strong>" is accepted by <strong>INFOCOM 2024</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2023/12/1)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity</strong>" is accepted by <strong>INFOCOM 2024</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2023/6/12)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super-Resolution</strong>" is accepted by <strong>ToN</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2023/2/14)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning</strong>" is accepted by <strong>ToN</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2023/1/19)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  Dependent Task offloading and Service Caching with State Management for Mobile Edge Computing</strong>" is accepted by <strong>ICC 2023</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2022/12/2)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics</strong>" is accepted by <strong>INFOCOM 2023</strong>!
     </span>
 </div>
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
-    <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2022/12/2)</strong> Our paper "<strong style="color: green; text-decoration: underline;">  Crowd^2: Multi-agent Bandit-based Dispatch for Video Analytics upon Crowdsourcing</strong>" is accepted by <strong>INFOCOM 2023</strong>!
     </span>
