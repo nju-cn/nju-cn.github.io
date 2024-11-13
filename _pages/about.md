@@ -56,7 +56,7 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 ***
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;font-family: kai, sans-serif;">
     <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2024/11/9)</strong> <strong style="color: blue;">Ning Chen</strong> was selected for the <strong>CCF 2024 Networks and Data Communications Specialised Committee's Outstanding Doctoral Dissertation Degree Incentive Scheme!</strong>
@@ -64,7 +64,7 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;font-family: kai, sans-serif;">
     <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 14px;">
         <strong style="color: red;">(11/2024)</strong> Our paper "AdaPyramid: Adaptive Pyramid for Accelerating High-resolution Object Detection on Edge Devices" is accepted by <strong>TMC</strong>!
