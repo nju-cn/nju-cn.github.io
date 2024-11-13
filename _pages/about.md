@@ -49,7 +49,7 @@ I am looking for well motivated students to work on  cutting-edge research proje
 
 ***<font color="red">2025年我组有空缺硕士指标，欢迎同学们联系！</font>***
 
-## **News** 
+## **NEWS** 
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
@@ -136,7 +136,7 @@ I am looking for well motivated students to work on  cutting-edge research proje
 </div>
 
 
-## **Selected Publications**
+## **SELECTED PUBLICATIONS**
 
 <style>
 hr:nth-of-type(1) {
@@ -188,7 +188,7 @@ hr:nth-of-type(2) {
 
   
 
-## **Contact**
+## **CONTACT**
 
 **Name:** Ning Chen （陈宁）
 
