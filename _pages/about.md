@@ -64,9 +64,9 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
 </div>
 
 
-<div style="display: flex; align-items: center;font-family: kai, sans-serif;">
+<div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="./new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
-    <span style="font-size: 14px;">
+    <span style="font-size: 16px;">
         <strong style="color: red;">(11/2024)</strong> Our paper "AdaPyramid: Adaptive Pyramid for Accelerating High-resolution Object Detection on Edge Devices" is accepted by <strong>TMC</strong>!
     </span>
 </div>
