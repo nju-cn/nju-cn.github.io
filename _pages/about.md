@@ -62,6 +62,10 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
     </span>
 </div>
 
+
+
+
+
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
@@ -69,12 +73,20 @@ Focusing on optimizing edge video inference systems, my research aims to achieve
     </span>
 </div>
 
+
+
+
+
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 16px;">
         <strong style="color: red;">(2024/5/28)</strong> <strong style="color: blue;">Ning Chen</strong> passes the <strong>Doctoral Dissertation Defence at Nanjing University</strong>!
     </span>
 </div>
+
+
+
+
 
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
