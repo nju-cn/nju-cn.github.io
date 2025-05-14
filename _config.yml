@@ -21,7 +21,7 @@ repository               : "nju-cn/nju-cn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cn.png"
+  avatar           : "cn.jpg"
   name             : "Ning Chen 陈宁"
   pronouns         : # example: "she/her"  
   bio              : ""
