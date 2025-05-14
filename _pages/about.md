@@ -61,7 +61,7 @@ I am looking for well motivated students to work on  cutting-edge research proje
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 14px;">
-        <strong style="color: red;">(2024/11/9)</strong> <strong style="color: blue;">Ning Chen</strong> is selected for the <strong>CCF 2024 Networks and Data Communications Specialised Committee's Outstanding Doctoral Dissertation Degree Incentive Scheme!</strong>
+        <strong style="color: red;">(2024/11/9)</strong> <strong style="color: blue;">Ning Chen</strong> is selected for the <strong>CCF 2024 Networks and Data Communications Specialised Committee's Outstanding Doctoral Dissertation Degree Incentive Scheme! 成功入选CCF网络与数据通信专委优秀博士学位论文激励计划！</strong>
     </span>
 </div>
 
