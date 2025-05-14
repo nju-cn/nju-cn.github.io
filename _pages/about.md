@@ -54,6 +54,13 @@ I am looking for well motivated students to work on  cutting-edge research proje
 <div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
     <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
     <span style="font-size: 14px;">
+        <strong style="color: red;">(2025/1/16)</strong> Our paper <strong style="color: blue; text-decoration: underline;">  Spliceosome: On-Camera Video Thinning and Tuning for Timely and Accurate Analytics</strong> is accepted by <strong>ToN</strong>!
+    </span>
+</div>
+
+<div style="display: flex; align-items: center;font-family: Times New Roman, sans-serif;">
+    <img src="http://nju-cn.github.io/images/new_blue.gif" alt="NEW" style="margin-right: 8px;width: 45px; height: 45px;">
+    <span style="font-size: 14px;">
         <strong style="color: red;">(2024/11/9)</strong> <strong style="color: blue;">Ning Chen</strong> is selected for the <strong>CCF 2024 Networks and Data Communications Specialised Committee's Outstanding Doctoral Dissertation Degree Incentive Scheme!</strong>
     </span>
 </div>
